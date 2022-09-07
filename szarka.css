@@ -1,0 +1,51 @@
+body{
+
+    background-color: aliceblue;
+
+
+
+}
+p {
+
+ color: darkblue;
+
+}
+h2 a{
+
+    color: crimson;
+
+
+}
+.fokep{
+
+
+    margin-left: +500px;
+  
+     
+    
+    text-align: center;
+
+
+
+
+}
+.kep2{
+
+border-style: dashed , 1px, black;
+margin-left: +1200px;
+text-align: right;
+
+
+}
+
+table {
+
+    text-align: center;
+    width: 400px;
+}
+td{
+
+    width: 50;
+
+
+}

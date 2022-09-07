@@ -1,0 +1,39 @@
+body{
+
+    background-color: aliceblue;
+
+
+}
+p{
+    color: darkblue;
+
+
+}
+
+td {
+
+ margin: 6px;
+    font-weight: bold;
+
+}
+
+.cimsor{
+
+    width: 500px;
+    color: aliceblue;
+    background-color: crimson;
+    text-align: center;
+   
+}
+.balra{
+
+    text-align: left;
+   
+    width: 250;
+    height: 50;
+}
+.jobbra{
+
+text-align: right;
+ 
+}
